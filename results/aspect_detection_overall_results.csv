@@ -1,0 +1,7 @@
+﻿Metric,Score
+Micro Precision,0.9337
+Micro Recall,0.5314
+Micro F1,0.6774
+Macro Precision (supported aspects),0.9234
+Macro Recall (supported aspects),0.5616
+Macro F1 (supported aspects),0.6578

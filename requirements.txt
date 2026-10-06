@@ -1,0 +1,29 @@
+# Taaghche ABSA - dependencies
+# Generated from the imports used in the two final notebooks.
+
+# Notebook environment
+jupyter
+ipykernel
+
+# Data handling
+pandas
+numpy
+openpyxl
+tqdm
+
+# Data acquisition / HTML parsing
+requests
+beautifulsoup4
+
+# Persian text processing
+hazm
+
+# Classical machine learning
+scikit-learn
+
+# ParsBERT / Hugging Face
+torch>=2.11
+transformers==5.15.1
+datasets==5.0.1
+accelerate
+sentencepiece

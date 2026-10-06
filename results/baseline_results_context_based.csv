@@ -1,0 +1,4 @@
+﻿model,accuracy,macro_f1
+TFIDF + Logistic Regression,0.7654139,0.5789469
+TFIDF + Linear SVM,0.8079096,0.5607316
+TFIDF + Logistic Regression Tuned,0.7710636,0.5817239
