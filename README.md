@@ -138,6 +138,3 @@ python src/context_extraction.py
 
 **Python**, **pandas**, **NumPy**, **scikit-learn**, **PyTorch**, **Hugging Face Transformers**, **Datasets**, **ParsBERT**, **Jupyter**, and regular-expression-based Persian text processing.
 
-## Notes
-
-This repository is a portfolio-oriented version of an undergraduate Computer Science project. The full academic report is available under `docs/`.
